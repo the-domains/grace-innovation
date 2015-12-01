@@ -1,7 +1,7 @@
 name: 'Grace Innovation '
 favicon: null
-layout_spectrum: 0.12162124342285097
-typography_spectrum: 0.3009756177198142
+layout_spectrum: 0.01443
+typography_spectrum: 0.36529
 title: 'Grace Innovation '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5555802555754781
-  lightness: 0.06039379024878144
-  saturation: 0.46089923568069935
-  rhythmicContrast: 0.8913076512981206
+    - '#ffffff'
+    - '#8c5ed6'
+    - '#002958'
+    - '#0f9d58'
+    - '#ca2f25'
+  brandStrength: 0.8125
+  lightness: 0.5625
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
